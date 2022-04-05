@@ -84,3 +84,4 @@ let bandas ={
 ]
 }
 
+module.exports = bandas
